@@ -66,26 +66,26 @@ tags: [font, .docx, .xlsx, .pptx]
 ```
 "他媽的"
 ```
-<span style="color:red;"><span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span></span>
+<span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span>
 2. 
 ```
 他"媽"的
 ```
-<span style="color:red;">他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的</span>
+他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的
 3. 
 ```
 他 "媽"的
 ```
-<span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的</span>
+他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的
 4. 
 ```
 他 "媽" 的
 ```
-<span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的</span>
+他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的
 5. 
 ```
 他 "媽 " 的
 ```
-<span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的</span>
+他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的
 
 我建議，用第 4 種方法。在鍵入文字時，中英文字間應該要有一個空格，這是個良好習慣。有機會我再介紹中英文輸入排版。
