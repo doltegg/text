@@ -1,7 +1,7 @@
 default:
-  text_skin: default
-  highlight_theme: tomorrow-night-blue
-  lang: zh-Hant-TW
+  text_skin: forest
+  highlight_theme: tomorrow-night
+  lang: zh-TW
   paths:
     root: /
     home: /index.html
