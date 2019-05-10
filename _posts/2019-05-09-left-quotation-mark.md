@@ -79,9 +79,9 @@ tags: [font, .docx, .xlsx, .pptx]
 他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的
 4. 
 ```
-他 "媽" 的
+他 "Mom" 的
 ```
-他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的
+他<span style="font-family:Arial;"> "</span>Mom<span style="font-family:Arial;">" </span>的
 5. 
 ```
 他 "媽 " 的
