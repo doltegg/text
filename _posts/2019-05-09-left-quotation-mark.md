@@ -10,8 +10,8 @@ tags: [排版, Word, Excel, PowerPoint]
 
 - 中式左引號：「、『
 - 中式右引號： 」、』
-- 英式左引號：<span style="color:red;"> "</span>
-- 英式右引號：<span style="color:red;">"</span>
+- 英式左引號：<span style="color:red; font-family:標楷體;"> "</span>
+- 英式右引號：<span style="color:red; font-family:標楷體;">"</span>
 
 如果大家對以上定義沒有意見，那就進入今天的主題。
 
@@ -25,7 +25,7 @@ tags: [排版, Word, Excel, PowerPoint]
 
 ![](/blog/assets/images/2019/quotation1.jpg "國泰金融電子月刊 4 月號")
 
-「國泰秉持<span style="color:red;">" What if we could"</span> 為不...」，看出錯誤了嗎？
+「國泰秉持<span style="color:red; font-family:標楷體;">" What if we could"</span> 為不...」，看出錯誤了嗎？
 
 我常在想，為什麼會出這種錯，而且到處都是呢！若先排除一部份可能的疏忽，其他的原因不外乎二種。一是「不懂」，一是「不會」。
 
@@ -63,10 +63,10 @@ tags: [排版, Word, Excel, PowerPoint]
 英式的引號輸入設計是英文的書寫模式，因為每個單字間都會有一個空白鍵，自然空白鍵後會是左引號；而右引號的左邊通常不會是空白。原理正是如此。
 
 示範：
-1. <pre>"他媽的"</pre><span style="color:red;">"他媽的"
-2. <pre>他"媽"的</pre><span style="color:red;">他"媽"的</span>
-3. <pre>他 "媽"的</pre><span style="color:red;">他 "媽"的</span>
-4. <pre>他 "媽" 的</pre><span style="color:red;">他 "媽" 的</span>
-5. <pre>他 "媽 " 的</pre><span style="color:red;">他 "媽 " 的</span>
+1. <pre>"他媽的"</pre><span style="color:red;"><span style="font-family:標楷體;">"</span>他媽的<span style="font-family:標楷體;">"</span></span>
+2. <pre>他"媽"的</pre><span style="color:red;">他<span style="font-family:標楷體;">"</span>媽<span style="font-family:標楷體;">"</span>的</span>
+3. <pre>他 "媽"的</pre><span style="color:red;">他 <span style="font-family:標楷體;">"</span>媽<span style="font-family:標楷體;">"</span>的</span>
+4. <pre>他 "媽" 的</pre><span style="color:red;">他 <span style="font-family:標楷體;">"</span>媽<span style="font-family:標楷體;">"</span> 的</span>
+5. <pre>他 "媽 " 的</pre><span style="color:red;">他 <span style="font-family:標楷體;">"</span>媽 <span style="font-family:標楷體;">"</span> 的</span>
 
 我建議，用第 4 種方法。在鍵入文字時，中英文字間應該要有一個空格，這是個良好習慣。有機會我再介紹中英文輸入排版。
