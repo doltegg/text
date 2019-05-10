@@ -22,7 +22,7 @@ url     : "https://dotegg.github.io" # the base hostname & protocol for your sit
 baseurl : "/text" # does not include hostname
 title   : "排一手好蛋"
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  學習排版、操作 OFFICE 軟體的好天地！
 
 
 ## => Language and Timezone
