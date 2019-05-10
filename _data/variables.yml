@@ -1,6 +1,6 @@
 default:
   text_skin: forest
-  highlight_theme: tomorrow-night
+  highlight_theme: tomorrow
   lang: zh-TW
   paths:
     root: /
