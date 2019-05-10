@@ -63,12 +63,24 @@ tags: [font, .docx, .xlsx, .pptx]
 
 示範：
 1. ```
-"他媽的"
+<pre>"他媽的"</pre>
 ```
 <span style="color:red;"><span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span></span>
-2. <pre>他"媽"的</pre><span style="color:red;">他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的</span>
-3. <pre>他 "媽"的</pre><span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的</span>
-4. <pre>他 "媽" 的</pre><span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的</span>
-5. <pre>他 "媽 " 的</pre><span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的</span>
+2. ```
+<pre>他"媽"的</pre>
+```
+<span style="color:red;">他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的</span>
+3. ```
+<pre>他 "媽"的</pre>
+```
+<span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的</span>
+4. ```
+<pre>他 "媽" 的</pre>
+```
+<span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的</span>
+5. ```
+<pre>他 "媽 " 的</pre>
+```
+<span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的</span>
 
 我建議，用第 4 種方法。在鍵入文字時，中英文字間應該要有一個空格，這是個良好習慣。有機會我再介紹中英文輸入排版。
