@@ -64,27 +64,27 @@ tags: [font, .docx, .xlsx, .pptx]
 示範：
 1. 
 ```
-<pre>"他媽的"</pre>
+"他媽的"
 ```
 <span style="color:red;"><span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span></span>
 2. 
 ```
-<pre>他"媽"的</pre>
+他"媽"的
 ```
 <span style="color:red;">他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的</span>
 3. 
 ```
-<pre>他 "媽"的</pre>
+他 "媽"的
 ```
 <span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的</span>
 4. 
 ```
-<pre>他 "媽" 的</pre>
+他 "媽" 的
 ```
 <span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的</span>
 5. 
 ```
-<pre>他 "媽 " 的</pre>
+他 "媽 " 的
 ```
 <span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的</span>
 
