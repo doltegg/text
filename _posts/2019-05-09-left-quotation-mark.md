@@ -1,7 +1,7 @@
 ---
 title: 左引號
 date: 2019-05-09
-tags: [排版, Word, Excel, PowerPoint]
+tags: [font, .docx, .xlsx, .pptx]
 ---
 相信很多人都知道，引號有分「左引號」與「右引號」，就像人有分「男人」和「女人」一樣。左、右引號先天就長得不一樣，就與男、女人天生結構就不同的意思一樣。
 
@@ -62,7 +62,7 @@ tags: [排版, Word, Excel, PowerPoint]
 英式的引號輸入設計是英文的書寫模式，因為每個單字間都會有一個空白鍵，自然空白鍵後會是左引號；而右引號的左邊通常不會是空白。原理正是如此。
 
 示範：
-1. <pre>"他媽的"</pre><span style="color:red;"><span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span></span>
+1. ```"他媽的"```</pre><span style="color:red;"><span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span></span>
 2. <pre>他"媽"的</pre><span style="color:red;">他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的</span>
 3. <pre>他 "媽"的</pre><span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的</span>
 4. <pre>他 "媽" 的</pre><span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的</span>
