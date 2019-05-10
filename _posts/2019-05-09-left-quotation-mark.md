@@ -62,30 +62,26 @@ tags: [font, .docx, .xlsx, .pptx]
 英式的引號輸入設計是英文的書寫模式，因為每個單字間都會有一個空白鍵，自然空白鍵後會是左引號；而右引號的左邊通常不會是空白。原理正是如此。
 
 示範：
-1. 
+ 
 ```
+<pre>
 "他媽的"
+他"媽"的
+他 "媽"的
+他 "媽" 的
+他 "媽 " 的
+</pre>
 ```
+
+1.
 <span style="color:red;"><span style="font-family:Arial;"> "</span>他媽的<span style="font-family:Arial;">"</span></span>
 2. 
-```
-他"媽"的
-```
 <span style="color:red;">他<span style="font-family:Arial;">"</span>媽<span style="font-family:Arial;">"</span>的</span>
 3. 
-```
-他 "媽"的
-```
 <span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">"</span>的</span>
 4. 
-```
-他 "媽" 的
-```
 <span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;">" </span>的</span>
 5. 
-```
-他 "媽 " 的
-```
 <span style="color:red;">他<span style="font-family:Arial;"> "</span>媽<span style="font-family:Arial;"> "</span> 的</span>
 
 我建議，用第 4 種方法。在鍵入文字時，中英文字間應該要有一個空格，這是個良好習慣。有機會我再介紹中英文輸入排版。
