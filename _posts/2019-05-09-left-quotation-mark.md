@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 左引號
 date: 2019-05-09
 category: 評
