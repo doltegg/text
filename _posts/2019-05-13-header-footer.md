@@ -12,6 +12,8 @@ PowerPoint 的母片中有個「頁尾」的設定，在編輯過後，編輯的
 
 ### 錯誤範例
 
+這是一個法遵部給我的教育訓練教案。
+
 <img src="/blog/assets/images/2019/footer1.jpg" style="display:block;margin:auto;width:460px"/>
 
 什麼叫「頁尾」？就是會出現在每一頁的投影片上的設定。
