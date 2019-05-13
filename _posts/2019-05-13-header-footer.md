@@ -1,8 +1,6 @@
-﻿---
-layout: post
+---
 title: 頁尾
 date: 2019-05-13
-category: 評
 tags: [.pptx, .docx]
 ---
 
