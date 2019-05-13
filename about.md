@@ -18,6 +18,11 @@ titles:
 key: page-about
 ---
 
+我常常看到一些好笑、可笑的紙上文字、圖檔、表格。
+
+我發現好像只有我覺得好笑，好笑作品的創造者自己無所覺。
+
+突然有一天，我打算開始記錄下來，留著自己笑。如果你也看得懂笑點，那也可以跟我一起笑！
 
 <!--
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
