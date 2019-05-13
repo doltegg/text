@@ -22,7 +22,7 @@ tags: [font, .docx, .xlsx, .pptx]
 
 反觀英式引號有分左右，相信大家也都知道，只是大部份的人都不知道左引號怎麼輸入，因此，許多人都用右引號去當做左引號。如「國泰金融電子月刊 4 月號」第 7 頁：
 
-<img src="/blog/assets/images/2019/quotation1.jpg" style="display:block;margin:auto;width:500px"/>
+<img src="/blog/assets/images/2019/quotation1.jpg" style="display:block;margin:auto;width:750px"/>
 
 「國泰秉持<span style="color:red; font-family:Arial;">" What if we could"</span> 為不...」，看出錯誤了嗎？
 
@@ -40,7 +40,7 @@ tags: [font, .docx, .xlsx, .pptx]
 
 我看過一個有趣的例子：
 
-<img src="/blog/assets/images/2019/quotation2.jpg" style="display:block;margin:auto;width:500px"/>
+<img src="/blog/assets/images/2019/quotation2.jpg" style="display:block;margin:auto;width:750px"/>
 
 該範例的錯誤：
 1. 先用標楷體寫了<span style="color:red; font-family:標楷體;">" 營業"</span>：左引號錯誤；
