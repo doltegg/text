@@ -22,7 +22,7 @@ key: page-about
 
 我發現好像只有我覺得好笑，好笑作品的創造者自己無所覺。
 
-當寫的人自己不懂、同事不懂、主管不懂、高層也不懂時，這一切顯得更好笑。
+當寫的人自己不懂、同事不懂、主管不會、高層也不會時，常常發生「不懂的問不會的」的情事，這一切顯得更好笑。
 
 突然有一天，我打算開始記錄下來，留著自己笑。如果你也看得懂笑點，那也可以跟我一起笑！
 
@@ -73,6 +73,4 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
 | ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
-
-
 -->
