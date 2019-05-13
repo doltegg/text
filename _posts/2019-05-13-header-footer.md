@@ -1,7 +1,7 @@
 ---
 title: 頁尾
 date: 2019-05-13
-tags: [.pptx, .docx]
+tags: [排版.pptx, .docx]
 ---
 
 PowerPoint 的母片中有個「頁尾」的設定，在編輯過後，編輯的內容就能反映在每一頁投影片上。
