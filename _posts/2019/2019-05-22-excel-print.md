@@ -31,7 +31,7 @@ mathjax: true
 1. 列印→版面設定：縮放比例調成 "1" 頁寬，高的部分請改成空白；<br />&nbsp;<br />
 <img src="/blog/assets/images/2019/excel5.jpg" style="display:block;margin:auto;width:900px"/><br />&nbsp;<br />
 1. 接著選邊界選單：上、下、左、右全改成 2，置中方式選「水平至中」；<br />&nbsp;<br />
-<img src="/blog/assets/images/2019/excel6.jpg" style="display:block;margin:auto;width:900px"/><br /><br />
+<img src="/blog/assets/images/2019/excel6.jpg" style="display:block;margin:auto;width:900px"/><br />
 1. 確定後就可以列印。
 
 
