@@ -23,14 +23,14 @@ mathjax: true
 
 ### 操作
 
-1. 列印→橫向方向；<br />
+1. 列印→橫向方向；<br /><br />
 <img src="/blog/assets/images/2019/excel2.jpg" style="display:block;margin:auto;width:900px"/><br />
-1. 分頁預覽→把藍色虛線拉至分頁位置；<br />
+1. 分頁預覽→把藍色虛線拉至分頁位置；<br /><br />
 <img src="/blog/assets/images/2019/excel3.jpg" style="display:block;margin:auto;width:900px"/><br />
 <img src="/blog/assets/images/2019/excel4.jpg" style="display:block;margin:auto;width:900px"/><br />
-1. 列印→版面設定：縮放比例調成 "1" 頁寬，高的部分請改成空白；<br />
+1. 列印→版面設定：縮放比例調成 "1" 頁寬，高的部分請改成空白；<br /><br />
 <img src="/blog/assets/images/2019/excel5.jpg" style="display:block;margin:auto;width:900px"/><br />
-1. 接著選邊界選單：上、下、左、右全改成 2，置中方式選「水平至中」；<br />
+1. 接著選邊界選單：上、下、左、右全改成 2，置中方式選「水平至中」；<br /><br />
 <img src="/blog/assets/images/2019/excel6.jpg" style="display:block;margin:auto;width:900px"/><br />
 1. 確定後就可以列印。
 
