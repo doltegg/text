@@ -1,4 +1,4 @@
-﻿---
+---
 title: 列印 Excel 檔案
 date: 2019-05-22
 tags: [.xlsx]
@@ -39,4 +39,4 @@ mathjax: true
 
 重點在於：版面設定的縮放比例，電腦預設是縮放比例 % 的大小，可是我們很難具體猜一個數字大小去符合紙張尺寸，所以請大家選 __ 頁寬，__ 頁高，若你在分頁預覽已經設定好，就只要在寬或高上設定一個就好，另一個讓它空白。 
 
-<img src="/blog/assets/images/2019/excel7.jpg" style="display:block;margin:auto;width:600px"/>
+<img src="/blog/assets/images/2019/excel7.jpg" style="display:block;margin:auto;width:300px"/>
