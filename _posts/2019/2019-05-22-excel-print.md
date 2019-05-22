@@ -26,7 +26,7 @@ mathjax: true
 1. 列印→橫向方向；<br />
 <img src="/blog/assets/images/2019/excel2.jpg" style="display:block;margin:auto;width:900px"/>
 1. 分頁預覽→把藍色虛線拉至分頁位置；<br />
-<img src="/blog/assets/images/2019/excel3.jpg" style="display:block;margin:auto;width:900px"/>
+<img src="/blog/assets/images/2019/excel3.jpg" style="display:block;margin:auto;width:900px"/><
 <img src="/blog/assets/images/2019/excel4.jpg" style="display:block;margin:auto;width:900px"/>
 1. 列印→版面設定：縮放比例調成 "1" 頁寬，高的部分請改成空白；<br />
 <img src="/blog/assets/images/2019/excel5.jpg" style="display:block;margin:auto;width:900px"/>
